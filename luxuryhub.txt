@@ -91,7 +91,7 @@ getgenv().Configs = {
     -- Webhook
     
     StartWebhook = true,
-    WebhookURL = "https://discord.com/api/webhooks/1157977501239349319/vERK8-jiSOV5vx3b9mbFmFdVv5xfF2rb7XtrSKuVG5jOhq2tUcCX0tw64I3akYra4kW1",
+    WebhookURL = "https://discord.com/api/webhooks/1195719143907922090/RD4mEDorn3aWL63w9gwhakC8rLPl7MeVZiNtmUJp6mhX3rVMzkuSlmeNeFRXOpFFEFhM",
     WebhookSettings = "Send Every 10 min", -- "Send Every 10 min","Send On Level Max","Send On Level Max And Every 10 min"
     
     -- CPU
