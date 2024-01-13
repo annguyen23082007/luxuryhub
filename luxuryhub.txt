@@ -4,8 +4,8 @@ _G.KaitanMode = true
 -- Candy Event
 _G.CandyConfigs = {
     ExpX2 = true,
-    Trade500Fragment = false,
-    Trade200Fragment = false
+    Trade500Fragment = true,
+    Trade200Fragment = true
 }
 shared.Team = "Pirates"
 getgenv().Configs = {
