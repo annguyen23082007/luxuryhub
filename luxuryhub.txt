@@ -77,7 +77,7 @@ getgenv().Configs = {
     
     -- Devil Fruit
         
-    SelectMainDF = {}, -- ผลหลักที่จะกินเเทนผลรอง
+    SelectMainDF = {"Dough-Dough","Mammoth-Mammoth","Leopard-Leopard"}, -- ผลหลักที่จะกินเเทนผลรอง
     SelectSubDF = {}, -- ผลรองจะกินไว้ก่อนเเล้วพอผลหลักมีก้จะเปลียนไปกินผิดหลัก
     AllowEatDFInventory = false,
     StartSniper = false,
