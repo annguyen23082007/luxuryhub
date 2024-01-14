@@ -58,7 +58,7 @@ getgenv().Configs = {
     AutoElectricClaw = true,
     AutoDargonTalon = true,
     
-    AutoDFMastery = false,
+    AutoDFMastery = true,
     SettingsSkill = { -- ถ้าไม่ใส่จะใช้ mode auto
         -- ["Z"] = 0.1,
         -- ["X"] = 0.1,
