@@ -72,7 +72,7 @@ getgenv().Configs = {
     
     -- Raids
     
-    SelectRateFruitRaid = 1000000, -- if fruit price less u rate then we use it to auto raids
+    SelectRateFruitRaid = 10000000, -- if fruit price less u rate then we use it to auto raids
     LimitFragmentsRaids = 20000,
     
     -- Devil Fruit
