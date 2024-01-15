@@ -79,8 +79,8 @@ getgenv().Configs = {
         
     SelectMainDF = {"Dough-Dough","Mammoth-Mammoth","Leopard-Leopard"}, -- ผลหลักที่จะกินเเทนผลรอง
     SelectSubDF = {"Ice-Ice","Sand-Sand","Dark-Dark","Light-Light","Flame-Flame","Magma-Magma"}, -- ผลรองจะกินไว้ก่อนเเล้วพอผลหลักมีก้จะเปลียนไปกินผิดหลัก
-    AllowEatDFInventory = true,
-    StartSniper = true,
+    AllowEatDFInventory = false,
+    StartSniper = false,
         
     -- RAM
     
