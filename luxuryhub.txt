@@ -33,7 +33,7 @@ getgenv().Configs = {
     AutoDarkbeard = true,
     AutoFactory = true,
     AutoThirdSea = true,
-    SkipGetItemGuitar = false, -- จะไม่ หาของทำ soul guiter ในโลก 2 เบบ หาจนกว่าจะได้ will not find item until get all item for do soul guiter ( open recommend เเนะนำให้เปิด )
+    SkipGetItemGuitar = true, -- จะไม่ หาของทำ soul guiter ในโลก 2 เบบ หาจนกว่าจะได้ will not find item until get all item for do soul guiter ( open recommend เเนะนำให้เปิด )
     AlliesFruit = {"Dragon-Dragon","Dough-Dough","Mammoth-Mammoth","Leopard-Leopard","Kitsune-Kitsune","Spirit-Spirit"}, -- จะไม่ใช้ผลพวกนี้ในการเปิดประตูไปโลก3
     -- World 3
     AutoHallowScythe = false,
@@ -45,7 +45,7 @@ getgenv().Configs = {
     AutoDarkDagger = true,
     AutoYama = true,
     AutoCanvander = false,
-    AutoSoulGuitar = true, 
+    AutoSoulGuitar = false, 
     AutoRainbowHaki = false,
     AutoCursedDualKatana = true,
     
